@@ -1,0 +1,5 @@
+name: vBungeeAPI
+version: b26-SNAPSHOT
+main: bungee.vaccum.api.vBungeeAPI
+author: Vaccum.de
+authors: [VaccumDE, Prixix]

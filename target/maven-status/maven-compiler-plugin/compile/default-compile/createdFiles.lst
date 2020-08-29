@@ -1,0 +1,8 @@
+bungee\vaccum\api\rest\RestAPI.class
+bungee\vaccum\api\vBungeeAPI.class
+bungee\vaccum\api\cloud\BanManager.class
+bungee\vaccum\api\cloud\CloudHandler.class
+bungee\vaccum\api\cloud\TeamChatManager.class
+bungee\vaccum\api\objects\Report.class
+bungee\vaccum\api\cloud\ReportManager.class
+bungee\vaccum\api\utils\ReportReason.class

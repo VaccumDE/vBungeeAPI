@@ -1,0 +1,5 @@
+name: vBungeeAPI
+version: ${project.version}
+main: bungee.vaccum.api.vBungeeAPI
+author: Vaccum.de
+authors: [VaccumDE, Prixix]
